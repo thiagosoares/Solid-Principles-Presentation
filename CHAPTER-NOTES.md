@@ -42,7 +42,7 @@ Princípio da segregação de interfaces - Muitas interfaces específicas são m
 * #### DIP - Dependency inversion principle
 Princípio da inversão de dependência - Dependa de abstrações e não de implementações.
 
-Estes cinco princícios se tornaram base para muitos padrões de projetos utilizados até hoje e também fizeram dos softwares produtos mais flexíveis e de fácil evolução. 
+Estes cinco princípios se tornaram base para muitos padrões de projetos utilizados até hoje e também fizeram dos softwares produtos mais flexíveis e de fácil evolução. 
 
 ## Benefícios da aplicação do S.O.L.I.D.
 Lembra dos sintomas negativos que buscamos em nossos softwares antes. Então, agora veremos sintomas positivos que deverão estar presentes em nosso código após a aplicação dos princípios. São eles:
@@ -52,9 +52,9 @@ Lembra dos sintomas negativos que buscamos em nossos softwares antes. Então, ag
 * Melhor Testabilidade
 * Melhor Modularização
 
-Legal não é ? Nos próximos capítulos discutiremos esses pricípios e certamente nossos códigos se tornarão muito melhores. 
+Legal não é ? Nos próximos capítulos discutiremos esses princípios e certamente nossos códigos se tornarão muito melhores. 
 
 ## Mas antes de iniciarmos, um aviso!
  os princípios SOLID, como o nome diz, são **princípios** e não são regras absolutas. 
- Pos isso, precisamos aplicá-los com cautela a avaliar bem as situações em que eles realmente nos trarão benefícios. 
+ Por isso, precisamos aplicá-los com cautela a avaliar bem as situações em que eles realmente nos trarão benefícios. 
 
