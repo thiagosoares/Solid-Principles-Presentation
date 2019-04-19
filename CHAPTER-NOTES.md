@@ -52,9 +52,9 @@ Lembra dos sintomas negativos que buscamos em nossos softwares antes. Então, ag
 * Melhor Testabilidade
 * Melhor Modularização
 
-Legal não é ? 
+Legal não é ? Nos próximos capítulos discutiremos esses pricípios e certamente nossos códigos se tornarão muito melhores. 
 
-### Mas antes de iniciarmos, um aviso!
+## Mas antes de iniciarmos, um aviso!
  os princípios SOLID, como o nome diz, são **princípios** e não são regras absolutas. 
  Pos isso, precisamos aplicá-los com cautela a avaliar bem as situações em que eles realmente nos trarão benefícios. 
 
