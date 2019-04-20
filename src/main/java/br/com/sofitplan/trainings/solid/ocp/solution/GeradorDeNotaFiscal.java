@@ -1,4 +1,4 @@
-package br.com.sofitplan.trainings.solid.opc.solution;
+package br.com.sofitplan.trainings.solid.ocp.solution;
 
 import br.com.sofitplan.trainings.solid.ocp.violation.Fatura;
 import br.com.sofitplan.trainings.solid.ocp.violation.NotaFiscal;
