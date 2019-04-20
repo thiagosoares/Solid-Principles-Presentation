@@ -13,3 +13,4 @@ public class NotaFiscalDao implements AcaoAposGerarNota {
         persiste(nf);
     }
 }
+
