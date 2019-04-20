@@ -1,7 +1,7 @@
-package br.com.sofitplan.trainings.solid.ocp.solution;
+package br.com.sofitplan.trainings.solid.dip.solution;
 
-import br.com.sofitplan.trainings.solid.ocp.violation.Fatura;
-import br.com.sofitplan.trainings.solid.ocp.violation.NotaFiscal;
+import br.com.sofitplan.trainings.solid.dip.violation.Fatura;
+import br.com.sofitplan.trainings.solid.dip.violation.NotaFiscal;
 
 import java.util.List;
 

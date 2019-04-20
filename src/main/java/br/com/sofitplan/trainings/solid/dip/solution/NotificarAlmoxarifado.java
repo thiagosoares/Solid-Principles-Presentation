@@ -1,6 +1,6 @@
-package br.com.sofitplan.trainings.solid.ocp.solution;
+package br.com.sofitplan.trainings.solid.dip.solution;
 
-import br.com.sofitplan.trainings.solid.ocp.violation.NotaFiscal;
+import br.com.sofitplan.trainings.solid.dip.violation.NotaFiscal;
 
 public class NotificarAlmoxarifado implements AcaoAposGerarNota {
 
