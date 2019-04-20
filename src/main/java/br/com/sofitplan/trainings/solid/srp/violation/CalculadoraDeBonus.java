@@ -4,7 +4,7 @@ import static br.com.sofitplan.trainings.solid.srp.violation.Cargo.*;
 
 public class CalculadoraDeBonus {
 
-    public double calcula(Funcionario funcionario) {
+    public double calculaBonus(Funcionario funcionario) {
         if(DESENVOLVEDOR.equals(funcionario.getCargo())) {
             return dezOuVintePorcento(funcionario);
         }
