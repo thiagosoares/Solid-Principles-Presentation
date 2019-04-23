@@ -4,9 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class ProcessadorDeInvestimentos {
-
     public static void main(String[] args) {
-
         for (ContaComum conta : contasDoBanco()) {
             conta.rende();
             System.out.println("Novo Saldo:");
@@ -18,3 +16,5 @@ public class ProcessadorDeInvestimentos {
         return Arrays.asList(new ContaComum(), new ContaDeEstudante());
     }
 }
+
+
